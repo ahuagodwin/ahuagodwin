@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **e-Commerce Application with REACT JS, REDUX and TailwindCSS**
 
-- 🌱 I’m currently learning **NODE JS, MonogoseDB, Express JS**
+- 🌱 I’m currently learning **Project Management**
 
 - 👨‍💻 All of my projects are available at [https://ahuagodwin.com](https://ahuagodwin.com)
 
