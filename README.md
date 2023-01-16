@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ahuagodwin.com](https://ahuagodwin.com)
 
-- 💬 Ask me about **REACT JS | REDUX | JS | TailwindCSS | Bootstrap | CSS | HTML | FIGMA**
+- 💬 Ask me about **REACT JS | REDUX | JS | TailwindCSS | Bootstrap | CSS | HTML | FIGMA | XD | PS**
 
 - 📫 How to reach me **godwincahua@gmail.com**
 
